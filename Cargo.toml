@@ -1,0 +1,13 @@
+[package]
+name = "vap"
+version = "0.1.0"
+edition = "2021"
+description = "Write logs to standard I/O"
+license = "Apache-2.0"
+readme = "readme.md"
+repository = "https://github.com/kevin-leptons/vap"
+
+[dependencies]
+chrono = "0.4.38"
+
+[dev-dependencies]
